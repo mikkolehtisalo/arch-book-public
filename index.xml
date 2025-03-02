@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preface on The Agile Architect</title>
+    <link>https://architect.intergalactic.solutions/</link>
+    <description>Recent content in Preface on The Agile Architect</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Mar 2025 20:44:39 +0200</lastBuildDate>
+    <atom:link href="https://architect.intergalactic.solutions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3.5 Facing total failure</title>
+      <link>https://architect.intergalactic.solutions/chapter15/</link>
+      <pubDate>Sat, 01 Mar 2025 20:44:39 +0200</pubDate>
+      <guid>https://architect.intergalactic.solutions/chapter15/</guid>
+      <description>&lt;h1 id=&#34;35-facing-total-failure&#34;&gt;3.5 Facing total failure&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://architect.intergalactic.solutions/15-fallen.jpg&#34; alt=&#34;Fallen&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sometimes, you get brought in to advise a project that is in full crisis mode. The critical stakeholders have lost faith in the project, and most likely, the relationship with the vendors is also in ruins. There are a lot of emotions in the room, mainly the fear of losing face or losing the already-made investments. They may ask for the architect&amp;rsquo;s advice on how to proceed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Closing</title>
+      <link>https://architect.intergalactic.solutions/closing/</link>
+      <pubDate>Sat, 01 Mar 2025 18:55:04 +0200</pubDate>
+      <guid>https://architect.intergalactic.solutions/closing/</guid>
+      <description>&lt;h1 id=&#34;closing-remarks&#34;&gt;Closing remarks&lt;/h1&gt;&#xA;&lt;p&gt;Thank you for taking the time to read this.&lt;/p&gt;&#xA;&lt;p&gt;If I had to condense everything I wrote down into one paragraph, it would probably look something like this:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;IT Architecture can never done in vacuum. Everything you do as an architect depends on multiple variables such as people, processes, and working software. Architects are active parties that build systems, shape futures, and lead change . Architects carefully consider the context, and at every given task aim to optimize the outcome in long-term. To become a great architect requires life-long learning of the related phenomena.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3.4 Not everyone wants to change</title>
+      <link>https://architect.intergalactic.solutions/chapter14/</link>
+      <pubDate>Sat, 01 Mar 2025 18:54:58 +0200</pubDate>
+      <guid>https://architect.intergalactic.solutions/chapter14/</guid>
+      <description>&lt;h1 id=&#34;34-not-everyone-wants-to-change&#34;&gt;3.4 Not everyone wants to change&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://architect.intergalactic.solutions/14-shouting.jpg&#34; alt=&#34;Shouting&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you haven&amp;rsquo;t experienced genuine change resistance, you will learn it often does not manifest as direct and active opposition. It is more of a passive-aggressive phenomenon where people drag their feet, accomplish their tasks halfway, and try to ignore your requests as far as possible. Then, managers start communicating the need for the change to the personnel better. While it seems to work, it will also fail.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chap3.3 But they built it incorrectlyter13</title>
+      <link>https://architect.intergalactic.solutions/chapter13/</link>
+      <pubDate>Sat, 01 Mar 2025 18:54:55 +0200</pubDate>
+      <guid>https://architect.intergalactic.solutions/chapter13/</guid>
+      <description>&lt;h1 id=&#34;33-but-they-built-it-incorrectly&#34;&gt;3.3 But they built it incorrectly&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://architect.intergalactic.solutions/13-facepalm.jpg&#34; alt=&#34;Facepalm&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;As an architect, you may support a few projects yourself, but if you work in a more complex environment, you must know when and how to delegate or transfer projects to other architects or teams. When you delegate a project, you may have done the initial planning and secured the support and resources for the project, but you will not be the one completing it. This process is what we refer to as &amp;lsquo;offshooting&amp;rsquo; a project.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3.2 Training in the job</title>
+      <link>https://architect.intergalactic.solutions/chapter12/</link>
+      <pubDate>Sat, 01 Mar 2025 18:54:52 +0200</pubDate>
+      <guid>https://architect.intergalactic.solutions/chapter12/</guid>
+      <description>&lt;h1 id=&#34;32-training-in-the-job&#34;&gt;3.2 Training in the job&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://architect.intergalactic.solutions/12-lifting.jpg&#34; alt=&#34;Lifting&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Undertaking a major IT development project involves numerous assumptions that guide your planning. The true nature of the project becomes apparent later. Projects could have avoided failure if they had possessed the knowledge gained later. However, We can tilt the odds in our favor by ensuring that we, as architects, development teams, and our company, learn from our mistakes. Learning is crucial to our growth and the key to improving our future projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3.1 Leading with narratives</title>
+      <link>https://architect.intergalactic.solutions/chapter11/</link>
+      <pubDate>Sat, 01 Mar 2025 18:54:50 +0200</pubDate>
+      <guid>https://architect.intergalactic.solutions/chapter11/</guid>
+      <description>&lt;h1 id=&#34;31-leading-with-narratives&#34;&gt;3.1 Leading with narratives&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://architect.intergalactic.solutions/11-sign.jpg&#34; alt=&#34;Sign&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;After defining the goals, means, and technologies, your work earnestly begins. What looks good on paper requires surprisingly large amounts of work to realize. Development means an infusion of resources such as money and personnel; many were absent when you did the groundwork. You might also require agreement from business leaders who are new to your ideas. &lt;strong&gt;A good narrative is the tool you need to yield to make things happen&lt;/strong&gt;, empowering you to take control of the situation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2.5 Choose the correct facts</title>
+      <link>https://architect.intergalactic.solutions/chapter10/</link>
+      <pubDate>Sat, 01 Mar 2025 18:54:47 +0200</pubDate>
+      <guid>https://architect.intergalactic.solutions/chapter10/</guid>
+      <description>&lt;h1 id=&#34;25-choose-the-correct-facts&#34;&gt;2.5 Choose the correct facts&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://architect.intergalactic.solutions/10-dashboard.jpg&#34; alt=&#34;Dashboard&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you haven&amp;rsquo;t read between the lines and figured out the overarching theme of technology selection, I will point it out. Understanding the context of technology is key, as there are few absolute truths of universally applicable solutions. If there were perfect solutions consistently delivering the correct results, we would not have more than one solution per each potential need. No one would need to rest, and no one would develop new solutions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2.4 Laws, regulations and standards</title>
+      <link>https://architect.intergalactic.solutions/chapter9/</link>
+      <pubDate>Sat, 01 Mar 2025 18:54:45 +0200</pubDate>
+      <guid>https://architect.intergalactic.solutions/chapter9/</guid>
+      <description>&lt;h1 id=&#34;24-laws-regulations-and-standards&#34;&gt;2.4 Laws, regulations and standards&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://architect.intergalactic.solutions/9-justice.jpg&#34; alt=&#34;Justice&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;While laws and regulations rarely force any technology selection, they sometimes guide what you are and are not allowed to do with technology. That may impact your technology selection, especially if the law forbids certain activities and the technology you are considering does precisely that. As an architect, you should be acutely aware of the laws and regulations impacting your environment, as failure to do so could lead to severe consequences for your organization.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2.3 Popularity rarely matters</title>
+      <link>https://architect.intergalactic.solutions/chapter8/</link>
+      <pubDate>Sat, 01 Mar 2025 18:54:43 +0200</pubDate>
+      <guid>https://architect.intergalactic.solutions/chapter8/</guid>
+      <description>&lt;h1 id=&#34;23-popularity-rarely-matters&#34;&gt;2.3 Popularity rarely matters&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://architect.intergalactic.solutions/8-concert.jpg&#34; alt=&#34;Concert&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Generally, you should always pick popular technologies over unpopular ones. Better talent availability, more vibrant ecosystem and community support, vendor longevity, and more ready integration options will help you succeed. However, you should be aware of challenges and that popularity isn&amp;rsquo;t everything. It&amp;rsquo;s just one factor you should consider among others.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Popularity doesn&amp;rsquo;t mean the technology is automatically fit for your use case.&lt;/strong&gt; For example, compared to monolithic architecture, microservices can add technical and management complexity that might not work in your environment. Popularity doesn&amp;rsquo;t mean the technology is necessarily cheap or there isn&amp;rsquo;t vendor lock-in either. Sometimes, the most popular solutions are the most generic, which means they might not address your specific needs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2.2 Sometimes technology helps</title>
+      <link>https://architect.intergalactic.solutions/chapter7/</link>
+      <pubDate>Sat, 01 Mar 2025 18:54:41 +0200</pubDate>
+      <guid>https://architect.intergalactic.solutions/chapter7/</guid>
+      <description>&lt;h1 id=&#34;22-sometimes-technology-helps&#34;&gt;2.2 Sometimes technology helps&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://architect.intergalactic.solutions/7-robot.jpg&#34; alt=&#34;Robot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;As an architect, your role is not just about designing structures but also about making strategic decisions that can shape the future of your business. Sometimes, these decisions involve technology selection, which isn&amp;rsquo;t about the technology itself but what it can do for the company. Many businesses, even those that view themselves as traditional, can benefit from IT solutions. It&amp;rsquo;s a misconception to think otherwise.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2.1 We all need something</title>
+      <link>https://architect.intergalactic.solutions/chapter6/</link>
+      <pubDate>Sat, 01 Mar 2025 18:54:39 +0200</pubDate>
+      <guid>https://architect.intergalactic.solutions/chapter6/</guid>
+      <description>&lt;h1 id=&#34;21-we-all-need-something&#34;&gt;2.1 We all need something&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://architect.intergalactic.solutions/6-chain.jpg&#34; alt=&#34;Chain&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Most IT departments have experienced the trauma of vendor or technology lock-in. They bought a system, and the vendor fell apart. They invested in technology to see its popularity decrease, causing costs to skyrocket. Their vendor lost interest in their business and moved the A-team to work with other clients. As a result, they are vocal about avoiding any lock-in. However, that is practically impossible.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1.5 Adaptable architecture</title>
+      <link>https://architect.intergalactic.solutions/chapter5/</link>
+      <pubDate>Sat, 01 Mar 2025 18:54:37 +0200</pubDate>
+      <guid>https://architect.intergalactic.solutions/chapter5/</guid>
+      <description>&lt;h1 id=&#34;15-adaptable-architecture&#34;&gt;1.5 Adaptable architecture&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://architect.intergalactic.solutions/5-chameleon.jpg&#34; alt=&#34;Chameleon&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;One of the most complex problems in software development is balancing foresight with practicality. On the other hand, you need foresight to determine what features users might require in the future. You plan the architecture of the software with that in mind. However, you can&amp;rsquo;t develop software that will do everything. It will be immensely complex, and you will fail to build it. You need to balance your foresight with practicality.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1.4 Ready, set, tailor</title>
+      <link>https://architect.intergalactic.solutions/chapter4/</link>
+      <pubDate>Sat, 01 Mar 2025 18:54:35 +0200</pubDate>
+      <guid>https://architect.intergalactic.solutions/chapter4/</guid>
+      <description>&lt;h1 id=&#34;14-ready-set-tailor&#34;&gt;1.4 Ready, set, tailor&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://architect.intergalactic.solutions/4-tailor.jpg&#34; alt=&#34;Tailor&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;As IT professionals, tailoring systems from scratch is not just a challenge but a significant responsibility. It&amp;rsquo;s well-known that over two-thirds of such projects fail to deliver the expected results. However, we must focus on the set of capabilities and traits that distinguish successful projects from failed ones, and this is where your expertise and dedication come into play.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Projects are set up for success or failure before they begin.&lt;/strong&gt; The activities done during the project can rarely save you from total failure if you prepared the project incorrectly. However, it&amp;rsquo;s important to remember that you, as IT professionals, often have the power to select technologies and vendors beforehand, empowering you to set the project on the right path.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1.3 Choosing the correct playbook</title>
+      <link>https://architect.intergalactic.solutions/chapter3/</link>
+      <pubDate>Sat, 01 Mar 2025 18:54:33 +0200</pubDate>
+      <guid>https://architect.intergalactic.solutions/chapter3/</guid>
+      <description>&lt;h1 id=&#34;13-choosing-the-correct-playbook&#34;&gt;1.3 Choosing the correct playbook&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://architect.intergalactic.solutions/3-playbook.jpg&#34; alt=&#34;Playbook&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s time for that talk. Why do some people rave about SaaS and ridicule custom software development, nitpicking the sources they cite? Why do others rave about custom software development and refuse to touch anything premade? Why do some people support the agile methodology while others think it&amp;rsquo;s just a fad? What on earth is going on? How can people disagree so much?&lt;/p&gt;&#xA;&lt;p&gt;The first piece of the puzzle is understanding these things as &lt;strong&gt;playbooks — overarching strategies and approaches to delivering solutions.&lt;/strong&gt; Each playbook comes with its own philosophy, methodologies, and trade-offs. You can&amp;rsquo;t discuss any of them without having a deep enough understanding of what they stand for, so let&amp;rsquo;s try to define the most common ones.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Preface</title>
+      <link>https://architect.intergalactic.solutions/preface/</link>
+      <pubDate>Sat, 01 Mar 2025 18:54:17 +0200</pubDate>
+      <guid>https://architect.intergalactic.solutions/preface/</guid>
+      <description>&lt;h1 id=&#34;preface&#34;&gt;Preface&lt;/h1&gt;&#xA;&lt;p&gt;Most fights are over before they start. In war, success depends primarily on planning, training, and preparing before the significant battles. IT systems are similar. Projects are complex beasts that succeed or fail, mainly based on meticulous preparation before the project. Your role as an aspiring IT architect is crucial in this phase. There is only so much a project manager or a development team can do when they are already waistline-deep in the sticky substance.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1.2 Boxes and arrows, oh my</title>
+      <link>https://architect.intergalactic.solutions/chapter2/</link>
+      <pubDate>Thu, 27 Feb 2025 19:34:14 +0200</pubDate>
+      <guid>https://architect.intergalactic.solutions/chapter2/</guid>
+      <description>&lt;h1 id=&#34;12-boxes-and-arrows-oh-my&#34;&gt;1.2 Boxes and arrows, oh my&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://architect.intergalactic.solutions/2-diagram.jpg&#34; alt=&#34;Diagram&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;When planning almost anything, architects draw diagrams. These &lt;strong&gt;diagrams are not just a tool but a powerful language that simplifies complex ideas, empowering you to navigate the intricate world of software architecture.&lt;/strong&gt; They help you create several layers of abstraction, focusing on the software&amp;rsquo;s critical parts, identifying relationships and dependencies, and deciding how to assemble a complete system from separate components. This power is in your hands, giving you control over the complexity of software architecture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1.1 Finding your north star</title>
+      <link>https://architect.intergalactic.solutions/chapter1/</link>
+      <pubDate>Thu, 27 Feb 2025 19:34:12 +0200</pubDate>
+      <guid>https://architect.intergalactic.solutions/chapter1/</guid>
+      <description>&lt;h1 id=&#34;11-finding-your-north-star&#34;&gt;1.1 Finding your north star&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://architect.intergalactic.solutions/1-compass.jpg&#34; alt=&#34;Compass&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Before embarking on the journey to become an architect, it&amp;rsquo;s crucial to understand the purpose and ultimate goals of architecture as a practice. Just as a north star guides those who travel in the dark toward the correct heading, you also need goals and means to succeed as an architect.&lt;/p&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s start with the concept of strategy. Business leaders in Western societies idealize it as a grand design proposed by the heroic strategist, and thanks to his wisdom, even against all odds, The Company will find the blue ocean and destroy all competition on open markets. It&amp;rsquo;s like magic, except everyone agrees it exists and works as advertised. Who doesn&amp;rsquo;t have a strategy? Even a lemonade stand needs one!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
